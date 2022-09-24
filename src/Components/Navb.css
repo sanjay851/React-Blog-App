@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    line-height: 1;
+    margin: 15px;
+}
+.the{
+    writing-mode: vertical-lr;
+    transform: scale(-1,-1);
+    font-size: 30px;
+    color: rgb(210, 9, 9); 
+    background-color:gold;
+}
+.siren{
+    font-size: larger;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar{
+    line-height: 0;
+    margin: 50px;
+    width: 50%;
+    top: 0px;
+    left: 20%;
+}
+.link{
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    margin: 25px;
+    margin-left: 55px;
+}
+.link:hover{
+    transition: ease-in;
+    color: rgb(139, 12, 29);
+    font-weight: 600;
+    text-decoration: underline;
+}
+.hr{
+    position: absolute;
+    width: 90%;
+    overflow: hidden;
+    margin-left: 50px;
+    border: 2px solid red;
+    top: 155px;
+}
